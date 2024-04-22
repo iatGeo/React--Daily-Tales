@@ -1,8 +1,8 @@
 # React - Daily Tales
 
-### This is a fully functioning front-end React CRUD app, that uses a mock back-end to handle server requests.
+### This is a fully functioning front-end React CRUD app, so you can create or read other's stories, with full editing options.
 
-The utilization of JSON-server package, allows us to handle the POST, PUT and DELETE requests to the back-end by providing a JSON file (stories.json).  
+By utilizing the JSON-server package, we can handle the POST, PUT and DELETE requests to the mock back-end server, and we are providing it an initial JSON file (stories.json).  
 All paging routes are being handled by the react-router-dom package.  
 Lastly, all pages' styling was done using React Tailwind CSS.
 
