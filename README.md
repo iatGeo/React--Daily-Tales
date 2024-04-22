@@ -2,8 +2,9 @@
 
 ### This is a fully functioning front-end React CRUD app, that uses a mock back-end to handle server requests.
 
-The utilization of JSON-server package, allows us to handle the POST, PUT and DELETE requests to the back-end by providing a JSON file (stories.json).
-All paging routes are being handled by the react-router-dom package
+The utilization of JSON-server package, allows us to handle the POST, PUT and DELETE requests to the back-end by providing a JSON file (stories.json).  
+All paging routes are being handled by the react-router-dom package.  
+Lastly, all pages' styling was done using React Tailwind CSS
 
 ---
 
