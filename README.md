@@ -4,7 +4,7 @@
 
 The utilization of JSON-server package, allows us to handle the POST, PUT and DELETE requests to the back-end by providing a JSON file (stories.json).  
 All paging routes are being handled by the react-router-dom package.  
-Lastly, all pages' styling was done using React Tailwind CSS
+Lastly, all pages' styling was done using React Tailwind CSS.
 
 ---
 
@@ -13,4 +13,4 @@ Lastly, all pages' styling was done using React Tailwind CSS
 -  Clone repository
 -  Enter the corresponding directory and use **_npm install_**
 -  Execute **_npm run server_**
--  In a different path, execute **_npm run dev_** and you are ready to go!
+-  In a different terminal, execute **_npm run dev_** and you are ready to go!
